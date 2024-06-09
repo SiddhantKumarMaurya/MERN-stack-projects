@@ -1,1 +1,1 @@
-This project contains the Book Store application built using MERN Stack
+MERN Stack projects
